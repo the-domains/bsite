@@ -1,24 +1,36 @@
-typography_spectrum: 0.5391724817454815
-content_rating:
-  adult: false
+title: wi risk management
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: expect the unexpected through better strategic planning
 color:
+  saturation: 0.3766888519749045
   brandStrength: 0.3259262915235013
-  lightness: 0.35027124057523906
-  saturation: 0.37668885197490454
-  rhythmicContrast: 0.6091220921371132
+  lightness: 0.3502712405752391
   brandColors:
-    - '#FFFFFF'
-    - '#0E361C'
-    - '#6A8675'
-    - '#199955'
-    - '#C4DCCC'
-layout_spectrum: 0.37523132329806685
+    - '#151412'
+    - '#00FFC3'
+    - '#26542E'
+    - '#B69F97'
+    - '#02CA76'
+  rhythmicContrast: 0.6091220921371132
+favicon: null
 author:
   name: Tom Boudreau
   email: tomboudreauwi@gmail.com
+name: tomboudreau
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/36d6fd67-7758-4d51-b2e0-f5fc29435a9b.jpg
-name: tomboudreau
-favicon: null
-title: wi risk management
-description: expect the unexpected through better strategic planning
+typography_spectrum: 0.5391724817454815
+layout_spectrum: 0.3752313232980669
+content_rating:
+  adult: false
