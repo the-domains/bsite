@@ -1,5 +1,6 @@
-layout_spectrum: 0.37523132329806685
 typography_spectrum: 0.5391724817454815
+content_rating:
+  adult: false
 color:
   brandStrength: 0.3259262915235013
   lightness: 0.35027124057523906
@@ -11,4 +12,11 @@ color:
     - '#6A8675'
     - '#199955'
     - '#C4DCCC'
-name: BSITE
+layout_spectrum: 0.37523132329806685
+author:
+  name: Tom Boudreau
+  email: tomboudreauwi@gmail.com
+name: tomboudreau
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ee5c8e6-ccde-43e1-abef-7d96f9e87f72.jpg
+title: risk management & business insurance
