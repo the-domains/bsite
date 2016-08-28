@@ -13,9 +13,9 @@ collections:
       path: '/:title/'
 description: expect the unexpected through better strategic planning
 color:
-  saturation: 0.7404255
+  saturation: 0.6659575
   brandStrength: 0.3259262915235013
-  lightness: 0.6723405
+  lightness: 0.7489362
   brandColors:
     - '#FFFFFF'
     - '#232F3E'
@@ -23,11 +23,11 @@ color:
     - '#959595'
     - '#6A6A6A'
   rhythmicContrast: 0.7319149
-favicon: null
+name: tomboudreau
 author:
   name: Tom Boudreau
   email: tomboudreauwi@gmail.com
-name: tomboudreau
+favicon: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/36d6fd67-7758-4d51-b2e0-f5fc29435a9b.jpg
 typography_spectrum: 0.5391724817454815
