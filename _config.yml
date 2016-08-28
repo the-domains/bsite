@@ -16,8 +16,9 @@ layout_spectrum: 0.37523132329806685
 author:
   name: Tom Boudreau
   email: tomboudreauwi@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36d6fd67-7758-4d51-b2e0-f5fc29435a9b.jpg
 name: tomboudreau
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ee5c8e6-ccde-43e1-abef-7d96f9e87f72.jpg
+favicon: null
 title: risk management
 description: expect the unexpected
