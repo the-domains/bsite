@@ -24,13 +24,13 @@ color:
     - '#6A6A6A'
   rhythmicContrast: 0.7319149
 favicon: null
+name: tomboudreau
 author:
   name: Tom Boudreau
   email: tomboudreauwi@gmail.com
-name: tomboudreau
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/36d6fd67-7758-4d51-b2e0-f5fc29435a9b.jpg
 typography_spectrum: 0.5391724817454815
-layout_spectrum: 0.3752313232980669
+layout_spectrum: 0.1425532
 content_rating:
   adult: false
