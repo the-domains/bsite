@@ -1,0 +1,14 @@
+layout_spectrum: 0.37523132329806685
+typography_spectrum: 0.5391724817454815
+color:
+  brandStrength: 0.3259262915235013
+  lightness: 0.35027124057523906
+  saturation: 0.37668885197490454
+  rhythmicContrast: 0.6091220921371132
+  brandColors:
+    - '#FFFFFF'
+    - '#0E361C'
+    - '#6A8675'
+    - '#199955'
+    - '#C4DCCC'
+name: BSITE
