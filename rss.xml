@@ -4,8 +4,15 @@
         <description><![CDATA[WI Risk Management]]></description>
         <link>https://thegrid.ai/tomboudreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 06:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 06:18:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomboudreau/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ransomware v2: Facing the Latest Cyber Security Threats]]></title>
+            <description><![CDATA[<article><h1>Ransomware v2: Facing the Latest Cyber Security Threats</h1><p>There's no doubt that ransomware attacks are on the rise and they're becoming more insidious. I spoke with Winston Krone, global managing director of Kivu Consulting about what the latest version of ransomware looks like and what risk managers should do if it strikes their organization. What is ransomware?</p></article>]]></description>
+            <link>http://juntoblog.net/ransomware-v2-facing-the-latest-cyber-security-threats/</link>
+            <guid isPermaLink="false">bcc0bf2f-2c67-4ea8-99d0-db393c55c970</guid>
+            <pubDate>Sun, 28 Aug 2016 06:18:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Law Firms and Data Breaches: Sensitive Data and Dangerous Practices]]></title>
             <description><![CDATA[<article><h1>Law Firms and Data Breaches: Sensitive Data and Dangerous Practices</h1><p>Hacking incidents at law firms have led to major data breach events in recent months. Even as all law firms store and handle sensitive client data, many of the smaller organizations tend to lack robust cybersecurity policies and procedures.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.associatedfinancialgroup.com/Resource-Library/Resource-Library-Article/ArtMID/666/ArticleID/403/When-stress-meets-workers%E2%80%99-compensation</link>
             <guid isPermaLink="false">47225a51-f6ad-4ca4-a882-77e486b62539</guid>
             <pubDate>Sat, 27 Aug 2016 18:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b4abe28-2a25-4c47-ac41-c803812a3192.png" alt="Tom Boudreau - Insurance Practice Leader at Associated Benefits &amp; Risk Consulting">]]></description>
-            <link>http://www.linkedin.com/in/tomboudreau</link>
-            <guid isPermaLink="false">6da44c68-c29f-4925-ae1e-d70edd43856b</guid>
-            <pubDate>Sat, 27 Aug 2016 18:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
