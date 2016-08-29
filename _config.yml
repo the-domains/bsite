@@ -13,6 +13,8 @@ color:
     - '#6A6A6A'
   rhythmicContrast: 0.7319149
 layout_spectrum: 0.1425532
+analytics:
+  twitter: boudreau_tom
 author:
   name: Tom Boudreau
   email: tomboudreauwi@gmail.com
