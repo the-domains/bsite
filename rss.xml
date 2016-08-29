@@ -4,11 +4,18 @@
         <description><![CDATA[WI Risk Management]]></description>
         <link>https://thegrid.ai/tomboudreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 06:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 06:17:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomboudreau/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Law Firms and Data Breaches: Sensitive Data and Dangerous Practices]]></title>
+            <description><![CDATA[<article><h1>Law Firms and Data Breaches: Sensitive Data and Dangerous Practices</h1><p>Hacking incidents at law firms have led to major data breach events in recent months. Even as all law firms store and handle sensitive client data, many of the smaller organizations tend to lack robust cybersecurity policies and procedures.</p></article>]]></description>
+            <link>http://juntoblog.net/law-firms-and-data-breaches-sensitive-data-and-dangerous-practices/</link>
+            <guid isPermaLink="false">e7a728a0-a959-4255-8d61-8f355fa58ff7</guid>
+            <pubDate>Sun, 28 Aug 2016 06:17:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Slower Drivers Shouldn't Hang Out In the Left Lane]]></title>
-            <description><![CDATA[<article><h1>Why Slower Drivers Shouldn't Hang Out In the Left Lane</h1><p>The left lane is for passing and slower traffic should keep right. It's one of the first things you learn when you get your driver's license, yet so many drivers forget it or don't understand it. Here's a detailed explanation for why this simple rule is so important.</p><img src="https://i.kinja-img.com/gawker-media/image/upload/s--GpYjKWDZ--/obn6z2kt1gj64xnajzby.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why Slower Drivers Shouldn't Hang Out In the Left Lane</h1><p>The left lane is for passing and slower traffic should keep right. It's one of the first things you learn when you get your driver's license, yet so many drivers forget it or don't understand it. Here's a detailed explanation for why this simple rule is so important.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21fafdbfc57966e3650ab77445e23d1b/noop.jpg?input=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--GpYjKWDZ--%2Fobn6z2kt1gj64xnajzby.jpg"></article>]]></description>
             <link>http://lifehacker.com/why-slower-drivers-shouldnt-hang-out-in-the-left-lane-1785823547/amp</link>
             <guid isPermaLink="false">d2c54990-cd54-4b9f-9c91-ee869b4fac02</guid>
             <pubDate>Sun, 28 Aug 2016 06:11:41 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.linkedin.com/in/tomboudreau</link>
             <guid isPermaLink="false">6da44c68-c29f-4925-ae1e-d70edd43856b</guid>
             <pubDate>Sat, 27 Aug 2016 18:20:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How small businesses can reduce their Workers' Comp risk]]></title>
-            <description><![CDATA[<article><h1>How small businesses can reduce their Workers' Comp risk</h1><p>When it comes to running a small business, workplace injuries can have a huge impact on operations. This is especially true when the injury results in an employee absence. Consider a small business that may employ only three people: That business is losing one-third of its workforce.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fdc236dadb96104674f6ebade73af305/noop.jpg?input=http%3A%2F%2Fmedia.propertycasualty360.com%2Fpropertycasualty360%2Farticle%2F2016%2F02%2F23%2Fsmall-business-istock000068570059small.jpg"></article>]]></description>
-            <link>http://buff.ly/1S2Biet</link>
-            <guid isPermaLink="false">1ff0ba56-5968-4dc0-87f3-7f35ad297d39</guid>
-            <pubDate>Sat, 27 Aug 2016 17:55:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
