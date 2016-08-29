@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[WI Risk Management & Insurance]]></title>
-        <description><![CDATA[WI Risk Management & Insurance]]></description>
+        <title><![CDATA[WI Risk Management]]></title>
+        <description><![CDATA[WI Risk Management]]></description>
         <link>https://thegrid.ai/tomboudreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 19:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 06:07:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomboudreau/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Worker hurt while driving company truck to his home: Can he get comp?]]></title>
+            <description><![CDATA[<article><h1>Worker hurt while driving company truck to his home: Can he get comp?</h1><p>Interesting take on the “coming and going” rule in WC.</p><img src="http://www.safetynewsalert.com/wp-content/uploads/2016/08/Car-Crash-2.jpg"></article>]]></description>
+            <link>http://www.safetynewsalert.com/worker-hurt-while-driving-company-truck-to-his-home-can-he-get-comp/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=worker-hurt-while-driving-company-truck-to-his-home-can-he-get-comp</link>
+            <guid isPermaLink="false">02ad7d22-68dd-4b71-b15c-3b7885600db3</guid>
+            <pubDate>Sun, 28 Aug 2016 06:07:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Experience Rating Analysis - ModMaster | Zywave]]></title>
             <description><![CDATA[<article><h1>Experience Rating Analysis - ModMaster | Zywave</h1><p>A ModMaster, in my opinion, should be completed every year you receive your workers’ compensation experience mod from the WCRB or NCCI - Immediately.  Wisconsin is actually one of the few states that allows your mod to be refiled in the event you find errors (inaccurate payrolls, class codes, and over-reserved claims).  The ModMaster serves many purposes, but it’s a tool that allows you to catch mistakes if you use it appropriately. If you have not seen or heard of a ModMaster before, please contact tom.boudreau@associatedbrc.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b704a309ddf454879352c1e8979f6ce/noop.png?input=http%3A%2F%2Fwww.zywave.com%2Fwp-content%2Fthemes%2FZywaveV3%2Fimages%2Fproducts%2Fmm%2FCS3-Slice01.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://buff.ly/1Tl09Ll</link>
             <guid isPermaLink="false">6c8d95db-4b47-460f-b6df-2a4d8803a254</guid>
             <pubDate>Sat, 27 Aug 2016 16:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hey OSHA, what's new?]]></title>
-            <description><![CDATA[<article><h1>Hey OSHA, what's new?</h1><p>The last year of President Obama’s administration has been a busy time for the Occupational Safety and Health Administration (OSHA). OSHA has already finalized several significant rulemakings and guidance documents. This article highlights a few of the more noteworthy changes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1860d2ddc0194fd2e5386393ec584016/noop.png?input=https%3A%2F%2Fwww.associatedfinancialgroup.com%2FPortals%2F0%2FAFGLogo_2x.png"></article>]]></description>
-            <link>https://www.associatedfinancialgroup.com/Resource-Library/Resource-Library-Article/ArtMID/666/ArticleID/413/Hey-OSHA-what%E2%80%99s-new</link>
-            <guid isPermaLink="false">1fab9a63-e184-4553-90c0-ba705637fb51</guid>
-            <pubDate>Sat, 27 Aug 2016 19:19:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
