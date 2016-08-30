@@ -4,8 +4,15 @@
         <description><![CDATA[WI Risk Management]]></description>
         <link>https://thegrid.ai/tomboudreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 06:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 14:51:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomboudreau/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Traffic Fatalities Continue to Rise; Up 9% in First Half of Year]]></title>
+            <description><![CDATA[<article><h1>Traffic Fatalities Continue to Rise; Up 9% in First Half of Year</h1><p>Preliminary estimates from the National Safety Council indicate motor vehicle deaths were 9 percent higher through the first six months of 2016 than in 2015, and 18 percent higher than two years ago at the six month mark. An estimated 19,100 people have been killed on U.S.</p><img src="https://www.insurancejournal.com/app/uploads/2012/07/traffic-deaths-increase-13-percent.jpg"></article>]]></description>
+            <link>https://amp.insurancejournal.com/news/national/2016/08/24/424297.htm</link>
+            <guid isPermaLink="false">0c717d7e-ef3b-4aa0-8bbe-d1229776fa66</guid>
+            <pubDate>Sun, 28 Aug 2016 14:50:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ransomware v2: Facing the Latest Cyber Security Threats]]></title>
             <description><![CDATA[<article><h1>Ransomware v2: Facing the Latest Cyber Security Threats</h1><p>There's no doubt that ransomware attacks are on the rise and they're becoming more insidious. I spoke with Winston Krone, global managing director of Kivu Consulting about what the latest version of ransomware looks like and what risk managers should do if it strikes their organization. What is ransomware?</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.associatedfinancialgroup.com/Resource-Library/Resource-Library-Article/ArtMID/666/ArticleID/401/The-burden-of-OSHA-non-compliance-just-got-a-lot-more-costly</link>
             <guid isPermaLink="false">5b84a207-c5c7-4f5b-9a83-3d9059571f54</guid>
             <pubDate>Sat, 27 Aug 2016 18:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When stress meets workers' compensation]]></title>
-            <description><![CDATA[<article><h1>When stress meets workers' compensation</h1><p>Does your co-worker stress you out? Is your boss consistently screaming at you? Congratulations, perhaps your expensive inpatient treatment to deal with this stress is compensable under workers&rsquo; compensation laws. There are three types of mental workers&rsquo; compensation injury claims: Physical/mental - when there is a mental injury as a result of a fortuitous event.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1860d2ddc0194fd2e5386393ec584016/noop.png?input=https%3A%2F%2Fwww.associatedfinancialgroup.com%2FPortals%2F0%2FAFGLogo_2x.png"></article>]]></description>
-            <link>https://www.associatedfinancialgroup.com/Resource-Library/Resource-Library-Article/ArtMID/666/ArticleID/403/When-stress-meets-workers%E2%80%99-compensation</link>
-            <guid isPermaLink="false">47225a51-f6ad-4ca4-a882-77e486b62539</guid>
-            <pubDate>Sat, 27 Aug 2016 18:55:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
