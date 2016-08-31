@@ -22,6 +22,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/36d6fd67-7758-4d51-b2e0-f5fc29435a9b.jpg
 name: "Tom Boudreau \_ \_262-446-5420"
+navigation:
+  - name: LinkedIn Profile
+    url: 'https://www.linkedin.com/in/tomboudreau'
+    type: external
 favicon: null
 collections:
   - index:
