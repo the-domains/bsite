@@ -2,8 +2,8 @@
 title: >-
   Risk management for manufacturers: Protect your property, income and other
   crucial assets
-datePublished: '2016-08-27T16:14:20.142Z'
-dateModified: '2016-08-27T16:13:53.475Z'
+datePublished: '2016-08-29T19:27:49.251Z'
+dateModified: '2016-08-29T19:27:48.803Z'
 author: []
 isBasedOnUrl: 'https://lnkd.in/eUfWAhW'
 description: >-
@@ -14,9 +14,9 @@ description: >-
   exposures that can damage your business.
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-27-risk-management-for-manufacturers-protect-your-property-in.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
