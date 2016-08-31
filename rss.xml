@@ -4,7 +4,7 @@
         <description><![CDATA[WI Risk Management]]></description>
         <link>https://thegrid.ai/tomboudreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 19:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 19:28:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomboudreau/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.linkedin.com/in/tomboudreau</link>
             <guid isPermaLink="false">6da44c68-c29f-4925-ae1e-d70edd43856b</guid>
             <pubDate>Mon, 29 Aug 2016 19:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Experience Rating Analysis - ModMaster | Zywave]]></title>
+            <description><![CDATA[<article><h1>Experience Rating Analysis - ModMaster | Zywave</h1><p>A ModMaster, in my opinion, should be completed every year you receive your workers’ compensation experience mod from the WCRB or NCCI - Immediately.  Wisconsin is actually one of the few states that allows your mod to be refiled in the event you find errors (inaccurate payrolls, class codes, and over-reserved claims).  The ModMaster serves many purposes, but it’s a tool that allows you to catch mistakes if you use it appropriately. If you have not seen or heard of a ModMaster before, please contact tom.boudreau@associatedbrc.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b704a309ddf454879352c1e8979f6ce/noop.png?input=http%3A%2F%2Fwww.zywave.com%2Fwp-content%2Fthemes%2FZywaveV3%2Fimages%2Fproducts%2Fmm%2FCS3-Slice01.png"></article>]]></description>
+            <link>http://www.zywave.com/modmaster/</link>
+            <guid isPermaLink="false">dc85f8fb-06db-4d16-9317-c95e4c38bf48</guid>
+            <pubDate>Mon, 29 Aug 2016 19:28:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Risk management for manufacturers: Protect your property, income and other crucial assets]]></title>
@@ -68,13 +75,6 @@
             <link>https://amp.insurancejournal.com/news/national/2016/08/23/424197.htm</link>
             <guid isPermaLink="false">5b601f65-a082-4a57-8a48-ac5ae021ccca</guid>
             <pubDate>Sun, 28 Aug 2016 14:55:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Traffic Fatalities Continue to Rise; Up 9% in First Half of Year]]></title>
-            <description><![CDATA[<article><h1>Traffic Fatalities Continue to Rise; Up 9% in First Half of Year</h1><p>Preliminary estimates from the National Safety Council indicate motor vehicle deaths were 9 percent higher through the first six months of 2016 than in 2015, and 18 percent higher than two years ago at the six month mark. An estimated 19,100 people have been killed on U.S.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/872a3965d06cf3ca3ffad9c6e33251dc/noop.jpg?input=https%3A%2F%2Fwww.insurancejournal.com%2Fapp%2Fuploads%2F2012%2F07%2Ftraffic-deaths-increase-13-percent.jpg"></article>]]></description>
-            <link>https://amp.insurancejournal.com/news/national/2016/08/24/424297.htm</link>
-            <guid isPermaLink="false">0c717d7e-ef3b-4aa0-8bbe-d1229776fa66</guid>
-            <pubDate>Sun, 28 Aug 2016 14:50:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
