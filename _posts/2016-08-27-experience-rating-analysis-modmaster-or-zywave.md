@@ -1,8 +1,8 @@
 ---
 id: dc85f8fb-06db-4d16-9317-c95e4c38bf48
-dateModified: '2016-08-29T19:31:23.974Z'
+dateModified: '2016-08-29T19:31:25.877Z'
 title: Experience Rating Analysis - ModMaster | Zywave
-datePublished: '2016-08-29T19:31:24.400Z'
+datePublished: '2016-08-29T19:31:26.235Z'
 author: []
 isBasedOnUrl: 'http://www.zywave.com/modmaster/'
 description: >-
@@ -21,7 +21,7 @@ publisher:
   domain: www.zywave.com
 via: {}
 sourcePath: _posts/2016-08-27-experience-rating-analysis-modmaster-or-zywave.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
