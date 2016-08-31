@@ -4,7 +4,7 @@
         <description><![CDATA[WI Risk Management]]></description>
         <link>https://thegrid.ai/tomboudreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 19:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 19:10:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomboudreau/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.linkedin.com/in/tomboudreau</link>
             <guid isPermaLink="false">6da44c68-c29f-4925-ae1e-d70edd43856b</guid>
             <pubDate>Mon, 29 Aug 2016 19:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Survey: OSHA ranks low on small business regulatory concerns]]></title>
+            <description><![CDATA[<article><h1>Survey: OSHA ranks low on small business regulatory concerns</h1><p>Compared to some of the other regulations small businesses face, OSHA isn't a big concern for owners, according to a new survey. Manta's Semi-Annual Wellness Index asked small business owners which regulatory rules were the most confusing. OSHA came in a distant fourth: 33% chose tax regulations as the most confusing 21% said the Affordable Care Act (Obamacare) 15% chose new U.S.</p></article>]]></description>
+            <link>http://www.safetynewsalert.com/survey-osha-ranks-low-on-small-business-regulatory-concerns/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=survey-osha-ranks-low-on-small-business-regulatory-concerns</link>
+            <guid isPermaLink="false">3ad0f85a-429b-4208-84d8-036ac2c66984</guid>
+            <pubDate>Mon, 29 Aug 2016 19:10:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Best Manufacturing Accounting Software - Review Top 10 Systems for 2016]]></title>
@@ -68,13 +75,6 @@
             <link>http://juntoblog.net/law-firms-and-data-breaches-sensitive-data-and-dangerous-practices/</link>
             <guid isPermaLink="false">e7a728a0-a959-4255-8d61-8f355fa58ff7</guid>
             <pubDate>Sun, 28 Aug 2016 06:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Slower Drivers Shouldn't Hang Out In the Left Lane]]></title>
-            <description><![CDATA[<article><h1>Why Slower Drivers Shouldn't Hang Out In the Left Lane</h1><p>The left lane is for passing and slower traffic should keep right. It's one of the first things you learn when you get your driver's license, yet so many drivers forget it or don't understand it. Here's a detailed explanation for why this simple rule is so important.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21fafdbfc57966e3650ab77445e23d1b/noop.jpg?input=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--GpYjKWDZ--%2Fobn6z2kt1gj64xnajzby.jpg"></article>]]></description>
-            <link>http://lifehacker.com/why-slower-drivers-shouldnt-hang-out-in-the-left-lane-1785823547/amp</link>
-            <guid isPermaLink="false">d2c54990-cd54-4b9f-9c91-ee869b4fac02</guid>
-            <pubDate>Sun, 28 Aug 2016 06:11:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
