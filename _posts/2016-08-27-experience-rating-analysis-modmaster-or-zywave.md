@@ -1,28 +1,10 @@
 ---
-datePublished: '2016-08-27T19:01:30.013Z'
-isBasedOnUrl: 'http://www.zywave.com/modmaster/'
-keywords:
-  - dmca
-  - zywave
-  - hipaa
-  - client
-  - costs
-  - privacy
-  - '53226'
-  - acheive
-  - '2016'
-  - '10100'
-related: []
-author: []
-via: {}
-dateModified: '2016-08-27T19:01:17.681Z'
+id: dc85f8fb-06db-4d16-9317-c95e4c38bf48
+dateModified: '2016-08-29T19:28:41.763Z'
 title: Experience Rating Analysis - ModMaster | Zywave
-app_links: []
-publisher:
-  url: 'http://www.zywave.com'
-  name: Zywave
-  favicon: 'http://www.zywave.com/wp-content/themes/ZywaveV3/favicon.ico'
-  domain: www.zywave.com
+datePublished: '2016-08-29T19:28:42.262Z'
+author: []
+isBasedOnUrl: 'http://www.zywave.com/modmaster/'
 description: >-
   A ModMaster, in my opinion, should be completed every year you receive your
   workers’ compensation experience mod from the WCRB or NCCI - Immediately. 
@@ -32,13 +14,17 @@ description: >-
   that allows you to catch mistakes if you use it appropriately. If you have not
   seen or heard of a ModMaster before, please contact
   tom.boudreau@associatedbrc.com
-inLanguage: en
-starred: false
+publisher:
+  url: 'http://www.zywave.com'
+  name: Zywave
+  favicon: 'http://www.zywave.com/wp-content/themes/ZywaveV3/favicon.ico'
+  domain: www.zywave.com
+via: {}
+starred: true
 sourcePath: _posts/2016-08-27-experience-rating-analysis-modmaster-or-zywave.md
 inFeed: true
 hasPage: false
 inNav: false
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
