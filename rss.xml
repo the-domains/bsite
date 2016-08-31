@@ -4,7 +4,7 @@
         <description><![CDATA[WI Risk Management]]></description>
         <link>https://thegrid.ai/tomboudreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 19:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 19:24:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomboudreau/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.linkedin.com/in/tomboudreau</link>
             <guid isPermaLink="false">6da44c68-c29f-4925-ae1e-d70edd43856b</guid>
             <pubDate>Mon, 29 Aug 2016 19:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/729ac235-8150-46b2-81ac-bad3d4d965ca.jpg">]]></description>
+            <link>https://thegrid.ai/tomboudreau/5bb5748a-7f2f-4cc9-8673-9786ac51c99c/index.html</link>
+            <guid isPermaLink="false">5bb5748a-7f2f-4cc9-8673-9786ac51c99c</guid>
+            <pubDate>Mon, 29 Aug 2016 19:20:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Survey: OSHA ranks low on small business regulatory concerns]]></title>
@@ -61,20 +68,6 @@
             <link>https://amp.insurancejournal.com/news/national/2016/08/24/424297.htm</link>
             <guid isPermaLink="false">0c717d7e-ef3b-4aa0-8bbe-d1229776fa66</guid>
             <pubDate>Sun, 28 Aug 2016 14:50:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ransomware v2: Facing the Latest Cyber Security Threats]]></title>
-            <description><![CDATA[<article><h1>Ransomware v2: Facing the Latest Cyber Security Threats</h1><p>There's no doubt that ransomware attacks are on the rise and they're becoming more insidious. I spoke with Winston Krone, global managing director of Kivu Consulting about what the latest version of ransomware looks like and what risk managers should do if it strikes their organization. What is ransomware?</p></article>]]></description>
-            <link>http://juntoblog.net/ransomware-v2-facing-the-latest-cyber-security-threats/</link>
-            <guid isPermaLink="false">bcc0bf2f-2c67-4ea8-99d0-db393c55c970</guid>
-            <pubDate>Sun, 28 Aug 2016 06:18:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Law Firms and Data Breaches: Sensitive Data and Dangerous Practices]]></title>
-            <description><![CDATA[<article><h1>Law Firms and Data Breaches: Sensitive Data and Dangerous Practices</h1><p>Hacking incidents at law firms have led to major data breach events in recent months. Even as all law firms store and handle sensitive client data, many of the smaller organizations tend to lack robust cybersecurity policies and procedures.</p></article>]]></description>
-            <link>http://juntoblog.net/law-firms-and-data-breaches-sensitive-data-and-dangerous-practices/</link>
-            <guid isPermaLink="false">e7a728a0-a959-4255-8d61-8f355fa58ff7</guid>
-            <pubDate>Sun, 28 Aug 2016 06:17:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
