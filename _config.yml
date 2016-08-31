@@ -29,7 +29,8 @@ navigation:
   - name: Homepage of Associated Benefits and Risk Consulting
     url: 'http://associatedbrc.com'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/684a6ad5-c078-4a99-9bbd-ff1be5eb654c.jpg
 collections:
   - index:
       path: /
