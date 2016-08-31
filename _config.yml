@@ -1,14 +1,39 @@
-layout_spectrum: 0.37523132329806685
 typography_spectrum: 0.5391724817454815
+content_rating:
+  adult: false
 color:
+  saturation: 0.6659575
   brandStrength: 0.3259262915235013
-  lightness: 0.35027124057523906
-  saturation: 0.37668885197490454
-  rhythmicContrast: 0.6091220921371132
+  rhythmicContrast: 0.7319149
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-name: BSITE
+    - '#FFFFFF'
+    - '#232F3E'
+    - '#BABABA'
+    - '#959595'
+    - '#6A6A6A'
+  lightness: 0.5042553
+layout_spectrum: 0.4510638
+analytics:
+  twitter: boudreau_tom
+  google: UA-83330140-1
+author:
+  name: Tom Boudreau
+  email: tomboudreauwi@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36d6fd67-7758-4d51-b2e0-f5fc29435a9b.jpg
+name: "Tom Boudreau \_ \_262-446-5420"
+favicon: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: WI Risk Management
+description: expect the unexpected through better strategic planning
