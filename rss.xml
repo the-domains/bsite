@@ -4,7 +4,7 @@
         <description><![CDATA[WI Risk Management]]></description>
         <link>https://thegrid.ai/tomboudreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 12:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 13:38:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomboudreau/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>https://lnkd.in/eUfWAhW</link>
             <guid isPermaLink="false">8a1d646a-ca9f-4268-a11e-a5bd35c4a0ac</guid>
             <pubDate>Mon, 29 Aug 2016 19:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Companies Bringing Manufacturing Jobs Back to US]]></title>
+            <description><![CDATA[<article><h1>Companies Bringing Manufacturing Jobs Back to US</h1><p>From Jan, 2010 until July 2016 the Reshoring Initiative estimates that 265,000 jobs have come back to the United States from abroad.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ad0553e4ccbea154725a37add02b162e/noop.jpg?input=http%3A%2F%2Fm.industryweek.com%2Fsite-files%2Findustryweek.com%2Ffiles%2Fgallery_promo_image%2FSlideshow---GM-2.jpg"></article>]]></description>
+            <link>http://m.industryweek.com/workforce/companies-bringing-manufacturing-jobs-back-us#slide-0-field_images-354091</link>
+            <guid isPermaLink="false">97827e99-6d6e-4401-a400-f6186ac6a2f6</guid>
+            <pubDate>Tue, 30 Aug 2016 13:35:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[If a data breach happened, how would your company pay for damages?]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.safetynewsalert.com/survey-osha-ranks-low-on-small-business-regulatory-concerns/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=survey-osha-ranks-low-on-small-business-regulatory-concerns</link>
             <guid isPermaLink="false">3ad0f85a-429b-4208-84d8-036ac2c66984</guid>
             <pubDate>Mon, 29 Aug 2016 19:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Manufacturing Accounting Software - Review Top 10 Systems for 2016]]></title>
-            <description><![CDATA[<article><h1>Best Manufacturing Accounting Software - Review Top 10 Systems for 2016</h1><p>Every company has basic accounting needs, such as general ledger, accounts payable, accounts receivable, inventory and payroll. Accounting for manufacturing companies carries additional requirements. For example, it's important to have features to support job costing, work-in-progress (WIP) reports, change orders and job payroll tracking.</p></article>]]></description>
-            <link>http://www.safetynewsalert.com/best-manufacturing-accounting-software-review-top-10-systems-for-2016-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=best-manufacturing-accounting-software-review-top-10-systems-for-2016-2</link>
-            <guid isPermaLink="false">1f4e86d8-c8f3-4555-bf46-bd19b79e426d</guid>
-            <pubDate>Mon, 29 Aug 2016 18:39:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
