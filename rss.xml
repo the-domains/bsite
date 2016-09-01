@@ -4,7 +4,7 @@
         <description><![CDATA[WI Risk Management]]></description>
         <link>https://thegrid.ai/tomboudreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 21:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 22:20:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomboudreau/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>https://lnkd.in/eUfWAhW</link>
             <guid isPermaLink="false">8a1d646a-ca9f-4268-a11e-a5bd35c4a0ac</guid>
             <pubDate>Mon, 29 Aug 2016 19:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Smart Manufacturing / Rockwell  ]]></title>
+            <description><![CDATA[<article><h1>Smart Manufacturing / Rockwell  </h1><p>The global push for smart manufacturing is underway for good reason - it offers nearly unlimited opportunities to improve operations, create new value and respond to challenges, such as the skilled-labor shortage. While some manufacturers have fully embraced smart manufacturing and are already reaping the benefits, most still have much work ahead of them.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/611ed3ce9cd7d803834c30d9321c634c/noop.jpg?input=http%3A%2F%2Fm.industryweek.com%2Fsite-files%2Findustryweek.com%2Ffiles%2Fprocessed_video%2FSmart-manufacturing-video.JPG"></article>]]></description>
+            <link>http://m.industryweek.com/connected-enterprise/smart-manufacturing</link>
+            <guid isPermaLink="false">5dc1f6b8-4ca3-4fd7-b86e-dbc790bb8fe8</guid>
+            <pubDate>Mon, 29 Aug 2016 22:20:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Foods That Are Most Dangerous to Dogs, and Why]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.inc.com/geoffrey-james/motivational-quotes-from-49-intensely-competitive-people.html</link>
             <guid isPermaLink="false">24e83119-1b94-4a79-92e3-77f700c77be2</guid>
             <pubDate>Mon, 29 Aug 2016 14:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RUN. HIDE. FIGHT.® Surviving an Active Shooter Event - English]]></title>
-            <description><![CDATA[<article><h1>RUN. HIDE. FIGHT.® Surviving an Active Shooter Event - English</h1><p>Surviving an active shooter event. English version. Video Copyright © 2012 City of Houston.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/669876004fe5809d7fa46eee93872799/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F5VcSwejU2D0%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/5VcSwejU2D0</link>
-            <guid isPermaLink="false">2f745048-a2af-4c70-9ee7-307b9a7d283f</guid>
-            <pubDate>Sun, 28 Aug 2016 15:01:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
