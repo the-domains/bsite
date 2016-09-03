@@ -4,7 +4,7 @@
         <description><![CDATA[WI Risk Management]]></description>
         <link>https://thegrid.ai/tomboudreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 21:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 04:02:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomboudreau/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>https://lnkd.in/eUfWAhW</link>
             <guid isPermaLink="false">8a1d646a-ca9f-4268-a11e-a5bd35c4a0ac</guid>
             <pubDate>Mon, 29 Aug 2016 19:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Mitigate the Threat of Ransomware]]></title>
+            <description><![CDATA[<article><h1>How to Mitigate the Threat of Ransomware</h1><p>Unfortunately, ransomware attacks on corporate systems are becoming more common. Here's how to manage the risk. All too often, companies' focus after being victimized by a ransomware attack is on the ransom paid, which is generally the most trivial outcome of the incident.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/944d2762b75b7ffabe7afeeb8d26760d/noop.jpg?input=http%3A%2F%2Fcdn.cfo.com%2Fcontent%2Fuploads%2F2016%2F08%2FThinkstockPhotos-504018046.jpg"></article>]]></description>
+            <link>http://ww2.cfo.com/risk-management/2016/08/mitigate-threat-ransomware/</link>
+            <guid isPermaLink="false">d3f25b9b-561a-48a6-9bc6-1da47d623eca</guid>
+            <pubDate>Thu, 01 Sep 2016 04:02:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Transgender employees in the workplace: Bathrooms, bullying and other concerns]]></title>
@@ -68,13 +75,6 @@
             <link>http://m.industryweek.com/connected-enterprise/smart-manufacturing</link>
             <guid isPermaLink="false">5dc1f6b8-4ca3-4fd7-b86e-dbc790bb8fe8</guid>
             <pubDate>Mon, 29 Aug 2016 22:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Foods That Are Most Dangerous to Dogs, and Why]]></title>
-            <description><![CDATA[<article><h1>The Foods That Are Most Dangerous to Dogs, and Why</h1><p>You probably know you shouldn't feed chocolate to your dog-but maybe your dog got into your candy stash anyway, and came out fine. Meanwhile, your vet is more concerned that you admit to feeding him raisins. Confused? Let's take a look at what the dangers really are.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a6b57562b30b3ac6ba745b2f2339ec79/noop.png?input=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--9aVRdi4_--%2Fc_fill%2Cfl_progressive%2Cg_center%2Ch_450%2Cq_80%2Cw_800%2Fn8mzrcgjhvhubospi5qs.png"></article>]]></description>
-            <link>https://t.co/oOC1in8JKb</link>
-            <guid isPermaLink="false">23c00cde-f073-413a-93a9-cf601a213ca5</guid>
-            <pubDate>Mon, 29 Aug 2016 21:39:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
