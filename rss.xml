@@ -4,7 +4,7 @@
         <description><![CDATA[WI Risk Management]]></description>
         <link>https://thegrid.ai/tomboudreau/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 16:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 04:16:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomboudreau/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>https://lnkd.in/eUfWAhW</link>
             <guid isPermaLink="false">8a1d646a-ca9f-4268-a11e-a5bd35c4a0ac</guid>
             <pubDate>Mon, 29 Aug 2016 19:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Manufacturing Really Looks Like: Celebrating Manufacturing Day Infographic]]></title>
+            <description><![CDATA[<article><h1>What Manufacturing Really Looks Like: Celebrating Manufacturing Day Infographic</h1><p>Manufacturing enables our everyday lives, drives our economy and can bring communities across the country together.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3d9b83247a7957633793d7bcae621f06/noop.png?input=http%3A%2F%2Fm.industryweek.com%2Fsite-files%2Findustryweek.com%2Ffiles%2Ffeeds%2Fmfgday-2014-infographic-01.png"></article>]]></description>
+            <link>http://m.industryweek.com/manufacturing-day/what-manufacturing-really-looks-celebrating-manufacturing-day-infographic</link>
+            <guid isPermaLink="false">f51d317a-7a1a-4fde-b1ff-9d7be8d733f0</guid>
+            <pubDate>Fri, 02 Sep 2016 04:16:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Woman gets 5 years for stealing $1.7 million from Brooklyn Park medical supply company]]></title>
@@ -68,13 +75,6 @@
             <link>http://m.industryweek.com/workforce/companies-bringing-manufacturing-jobs-back-us#slide-0-field_images-354091</link>
             <guid isPermaLink="false">97827e99-6d6e-4401-a400-f6186ac6a2f6</guid>
             <pubDate>Tue, 30 Aug 2016 13:35:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If a data breach happened, how would your company pay for damages?]]></title>
-            <description><![CDATA[<article><h1>If a data breach happened, how would your company pay for damages?</h1><p>Despite frequent reports of hacking, cybercrime, security breaches and related events in all parts of the U.S., many middle market companies continue to underestimate their exposure to these attacks along with their need for focused risk management measures, which may include the purchase of specialized insurance.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/46e685435cdfe86d845fcf93c9bd4bfe/noop.jpg?input=http%3A%2F%2Fwww.insurancejournal.com%2Fapp%2Fuploads%2F2015%2F11%2Fcyber-crime.jpg"></article>]]></description>
-            <link>http://www.insurancejournal.com/news/national/2016/08/30/424769.htm</link>
-            <guid isPermaLink="false">a4bf1013-eba1-4f1e-9c03-e898f5eac3da</guid>
-            <pubDate>Tue, 30 Aug 2016 12:42:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
